@@ -2,6 +2,11 @@
 
 Automatically reply to customers and identify important tags in customer reviews.
 
+## Workflow
+The input to the system includes the original review and the user's rating for the product. The review is then translated into English, appropriate tags are identified from the review and finally, an apt response is generated for the customer in the language they used for the original review.
+
+<img align="centre" alt="Good Example" width="800" src="https://github.com/akashsp7/Langchain-Customer_service/blob/main/images/Customer%20review_cropped.png?raw=true">
+
 ## A good example
 Here the system correctly identified tags like dainty and well-made as well as appropriately thanked the customer for its review in a natural manner.
 
